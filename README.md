@@ -3,6 +3,7 @@ This project is a computer version of the Welcome To board game, currently a wor
 
 # Images
 ![UI display](https://github.com/user-attachments/assets/688da9e8-06ba-48bc-a6a7-90ddb55ee9c8)
+
 ![A started game](https://github.com/user-attachments/assets/60e5b14b-0575-45e1-bc91-962d3d13476d)
 
 # How to Run
